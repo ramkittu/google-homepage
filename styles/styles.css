@@ -1,0 +1,25 @@
+.header{
+	float:right;
+}
+ul.nav li{
+	list-style: none;
+	display: inline;
+}
+.section{
+	position: absolute;
+	top:30%;
+	left:30%;
+}
+#search{
+	border:0px;
+	margin-top: 5px;
+	margin-left:5px;
+	width: 350px;
+	height:20px;
+
+}
+.forminput{
+	border:1px solid red;
+	width:450px;
+	height:30px;
+}
